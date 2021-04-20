@@ -15,11 +15,7 @@ body{
 }
 
 .exp-image {
-  position: absolute;
-  top: 85px;
-  right: 440px;
-  bottom: 1000px;
-  left: 1000px;
+  image-allign: right;
   border: 5px solid #ffffff
   
 }
