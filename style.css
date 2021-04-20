@@ -15,9 +15,9 @@ body{
 }
 
 .exp-image {
-  position: absolute;
+  position: fixed;
   top: 80px;
-  right: 80px;
+  right: 400px;
   border: 5px solid #ffffff
   
 }
